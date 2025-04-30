@@ -1,0 +1,1 @@
+<{{ $heading }} {{ $attributes->twMerge(['class' => $classes]) }}>{{ $slot }}</{{ $heading }}>
